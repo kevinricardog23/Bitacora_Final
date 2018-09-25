@@ -25,10 +25,5 @@ namespace BITACORA
         {
             dataGridView1.DataSource = cpl.mostrarBitacora();
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

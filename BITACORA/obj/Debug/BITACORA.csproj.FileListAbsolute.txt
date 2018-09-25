@@ -12,16 +12,16 @@ C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\BITACORA\bin\D
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\BITACORA\obj\Debug\BITACORA.csprojResolveAssemblyReference.cache
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\BITACORA\obj\Debug\BITACORA.frmBitacora.resources
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\BITACORA\obj\Debug\BITACORA.csproj.GenerateResource.Cache
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.csprojResolveAssemblyReference.cache
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.frmBitacora.resources
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.csproj.GenerateResource.Cache
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\BITACORA.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\BITACORA.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\logica.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\datos.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\MySql.Data.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\logica.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\datos.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\BITACORA\bin\Debug\MySql.Data.xml
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\BITACORA.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\BITACORA.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\logica.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\logica.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.frmBitacora.resources
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.csproj.GenerateResource.Cache
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.pdb

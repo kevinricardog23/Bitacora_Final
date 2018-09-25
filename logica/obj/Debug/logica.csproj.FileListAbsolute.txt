@@ -8,12 +8,12 @@ C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\logica\bin\Deb
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\logica\obj\Debug\logica.csprojResolveAssemblyReference.cache
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\logica\obj\Debug\logica.dll
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\logica\obj\Debug\logica.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\obj\Debug\logica.csprojResolveAssemblyReference.cache
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\obj\Debug\logica.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\obj\Debug\logica.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\bin\Debug\logica.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\bin\Debug\logica.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\bin\Debug\datos.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\bin\Debug\MySql.Data.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\bin\Debug\datos.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\logica\bin\Debug\MySql.Data.xml
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\bin\Debug\logica.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\bin\Debug\logica.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\bin\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\bin\Debug\datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\obj\Debug\logica.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\obj\Debug\logica.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\logica\obj\Debug\logica.pdb

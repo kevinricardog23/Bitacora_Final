@@ -34,6 +34,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 8.0.12\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
     </Reference>
+    <Reference Include="RetornoCadenaDeConexion">
+      <HintPath>..\..\..\..\..\Desktop\SEGURIDAD\COMPLEMENTS\CambioDeHost\CambioDeHost\bin\Debug\RetornoCadenaDeConexion.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

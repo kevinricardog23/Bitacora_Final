@@ -5,10 +5,13 @@ C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\datos\bin\Debu
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\datos\bin\Debug\MySql.Data.xml
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\datos\obj\Debug\datos.dll
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun\BITACORA\datos\obj\Debug\datos.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\datos\bin\Debug\datos.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\datos\bin\Debug\datos.pdb
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\datos\bin\Debug\MySql.Data.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\datos\bin\Debug\MySql.Data.xml
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\datos\obj\Debug\datos.dll
-C:\Users\KEVIN\Desktop\1. BITACORA\BITACORA\datos\obj\Debug\datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\bin\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\bin\Debug\datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\bin\Debug\MySql.Data.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\bin\Debug\Google.Protobuf.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\bin\Debug\MySql.Data.xml
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\obj\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\datos\obj\Debug\datos.pdb
